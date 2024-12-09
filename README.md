@@ -14,6 +14,7 @@ Implementations of the Fibonacci series are provided in the following languages:
 🐍 Python
 
 📋 Example Code & Output (Rust Version)
+
 <img width="466" alt="image" src="https://github.com/user-attachments/assets/97969895-c934-4ad3-a35a-602b408d376c">
 
 For an input of 7, the output is:
