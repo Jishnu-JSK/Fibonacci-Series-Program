@@ -10,6 +10,7 @@ It has numerous applications in mathematics, computer science, and nature.
 
 💻 Languages Used:
 Implementations of the Fibonacci series are provided in the following languages:
+
 🦀 Rust
 
 🐍 Python
