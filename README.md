@@ -17,6 +17,7 @@ Implementations of the Fibonacci series are provided in the following languages:
 <img width="466" alt="image" src="https://github.com/user-attachments/assets/97969895-c934-4ad3-a35a-602b408d376c">
 
 For an input of 7, the output is:
+
 <img width="97" alt="image" src="https://github.com/user-attachments/assets/b677f347-cdff-48fb-84bc-29e5be392344">
 
 
